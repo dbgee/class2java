@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.dbgee.class2java
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
